@@ -1,2 +1,0 @@
-# python
-Comandos de python.
